@@ -1,0 +1,39 @@
+
+main {
+    background-color: #101820;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+section {
+    background-color: #1E293B;
+    padding: 25px;
+    margin: 20px;
+}
+
+h2 {
+    color: #16A34A;
+    text-align: center;
+}
+
+p {
+    color: #F5F5F5;
+    text-align: center;
+}
+
+
+
+img {
+    margin: 15px;
+}
+
+
+
+footer {
+    background-color: #16A34A;
+    color: #F5F5F5;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
